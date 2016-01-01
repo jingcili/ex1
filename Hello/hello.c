@@ -6,6 +6,5 @@ int main()
 {
 printf("Hello World 1.0! \n");
 printf("Hello World 2.0! \n");
-
 return 0;
 }
